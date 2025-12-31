@@ -55,6 +55,8 @@ const translations: Translations = {
   
   // Footer
   'footer.rights': { en: 'All rights reserved', am: 'ሁሉም መብቶች የተጠበቁ ናቸው' },
+  'footer.follow': { en: 'Follow me', am: 'እኔን ይከተሉ' },
+  'footer.connect': { en: 'Let\'s connect', am: 'እንገናኝ' },
 }
 
 interface LanguageContextType {

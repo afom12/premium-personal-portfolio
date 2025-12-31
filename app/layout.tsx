@@ -5,6 +5,7 @@ import { ThemeProvider } from '@/components/providers/ThemeProvider'
 import { LanguageProvider } from '@/components/providers/LanguageProvider'
 import { SmoothScroll } from '@/components/SmoothScroll'
 import { ErrorBoundary } from '@/components/ErrorBoundary'
+import { ScrollToTop } from '@/components/ScrollToTop'
 
 const inter = Inter({ 
   subsets: ['latin'],
@@ -89,6 +90,7 @@ export default function RootLayout({
             <LanguageProvider>
               <SmoothScroll />
               {children}
+              <ScrollToTop />
             </LanguageProvider>
           </ErrorBoundary>
         </ThemeProvider>
