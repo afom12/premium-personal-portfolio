@@ -1,6 +1,6 @@
 # Modern Portfolio & Case Study Hub
 
-A premium personal portfolio website that feels like a design studio — not a basic resume page. Built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
+A premium personal portfolio website that feels like a design studio —not a basic resume page. Built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## ✨ Features
 
